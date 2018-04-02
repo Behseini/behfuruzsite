@@ -1,0 +1,36 @@
+#slogantext{color:#ebebec; font-size:4px;}
+#stickycontainer {border-bottom: 3px solid #8dc63f}
+#stickylogo{font-size:30px;}
+#sitewrapper {
+background: none;
+}
+#stickycontainer{background-color:#444444;}
+#sticky-contact-info {color: #584e40;}
+body #sticky-contact-info a {color: #584e40;}
+
+p{font-family: 'Roboto', sans-serif !important; font-weight:300; line-height: 22.5px;}
+html {background-attachment: fixed;}
+
+.header-new{height:50px; background-color:#8dc63f;}
+#boxer{background-color:#8dc63f !important;}
+#syndication {position: relative; margin-top:-30px !important;}
+#bannerBox-new{height:210px; background-color:#34373f !important;
+background-image: url('http://www.geoca.com/behfuruz/BanBack.png') !important;
+padding:0px !important;    background-position: 10% 20%; }
+#evergreen{padding:0px; margin-top:-30px !important;}
+.menu-new{height:50px; }
+.footer-new{height:250px; background-color:#34373f !important;}
+#footer{background-color:#34373f !important; color:white;}
+.container {background: #EBEBEC !important;}
+.container .fullwidth #nav{background-color:#1a1a1a !important;}
+#nav.container {background-color:#3B4347 !important;}
+#footer.container{ background-color:#34373f !important; }
+#sitewrapper#footer.container{ background-color:#34373f !important; }
+#headerbanner ul.nav>li>a {
+text-align:center !important;
+}
+.navbar{background-color: rgb(81,85,95) !important;}
+.navbar-inner{width: 96%;  margin: 0 auto!important; }
+.container{background-color:transparent !important;}
+#bannerBox-new > .container{background-color:transparent !important;}
+#header-image{background-image: url('http://www.geoca.com/behfuruz/Banner.png') !important;  background-position: 0% 0%; 
