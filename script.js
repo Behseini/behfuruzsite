@@ -6,7 +6,7 @@ $( document ).ready(function() {
  "class" : "header-new"
 });
 $( "#banner" ).before( newBanner );
-$('.header-new').html('<div class="row"><div class="container" id="boxer" style="background-color:#8ca525;"><div class="pull-left" id="evergreen"><img src="http://www.geoca.com/behfuruz/everGreen.png" alt="Vancouver Home For Buy sell"></div></div></div>');
+$('.header-new').html('<div class="row"><div class="container" id="boxer" style="background-color:#8ca525;"><div class="pull-left" id="evergreen"><img src="https://raw.githubusercontent.com/Behseini/behfuruzsite/master/everGreen.png" alt="Vancouver Home For Buy sell"></div></div></div>');
 $('#boxer').append($('#syndication'));
 $('#syndication').addClass('pull-right');
  var newMenu = $("<div />", {
@@ -30,3 +30,5 @@ $('.footer-new').append($('#footer'));
   $('img[alt="award logos"]').wrap("<a href='http://www.behfuruz.com/award' </a>");
 
 });
+
+https://raw.githubusercontent.com/Behseini/behfuruzsite/master/BanBack.png
