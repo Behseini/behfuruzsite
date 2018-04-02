@@ -15,7 +15,7 @@ html {background-attachment: fixed;}
 #boxer{background-color:#8dc63f !important;}
 #syndication {position: relative; margin-top:-30px !important;}
 #bannerBox-new{height:210px; background-color:#34373f !important;
-background-image: url('http://www.geoca.com/behfuruz/BanBack.png') !important;
+background-image: url('https://raw.githubusercontent.com/Behseini/behfuruzsite/master/BanBack.png') !important;
 padding:0px !important;    background-position: 10% 20%; }
 #evergreen{padding:0px; margin-top:-30px !important;}
 .menu-new{height:50px; }
@@ -33,4 +33,4 @@ text-align:center !important;
 .navbar-inner{width: 96%;  margin: 0 auto!important; }
 .container{background-color:transparent !important;}
 #bannerBox-new > .container{background-color:transparent !important;}
-#header-image{background-image: url('http://www.geoca.com/behfuruz/Banner.png') !important;  background-position: 0% 0%; 
+#header-image{background-image: url('https://raw.githubusercontent.com/Behseini/behfuruzsite/master/Banner.png') !important;  background-position: 0% 0%; 
