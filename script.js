@@ -31,4 +31,4 @@ $('.footer-new').append($('#footer'));
 
 });
 
-https://raw.githubusercontent.com/Behseini/behfuruzsite/master/BanBack.png
+
